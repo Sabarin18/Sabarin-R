@@ -12,7 +12,7 @@ My academic journey in Computer Science has sparked a strong passion for cyberse
 
 | Skill                                         | Related Project / Lab       |
 |-----------------------------------------------|----------------------------|
-| SIEM Monitoring & Log Analysis                | Home SOC Lab (Wazuh / Splunk)|
+| SIEM Monitoring & Log Analysis                |<a href="https://google.com">Home SOC Lab - Brute-Force Detection & Triage | Wazuh</a>|
 | Alert Triage & Incident Investigation         | SOC Analyst Labs|
 | Threat Detection & IOC Analysis               | SOC Analyst Labs|
 | MITRE ATT&CK Mapping                          |Brute-Force Detection Lab|
