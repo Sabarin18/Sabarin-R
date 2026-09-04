@@ -12,7 +12,7 @@ My academic journey in Computer Science has sparked a strong passion for cyberse
 
 | Skill                                         | Related Project / Lab       |
 |-----------------------------------------------|----------------------------|
-| SIEM Monitoring & Log Analysis                |<a href="https://google.com">Home SOC Lab - Brute-Force Detection & Triage | Wazuh</a>|
+| SIEM Monitoring & Log Analysis                |<a href="https://github.com/Sabarin18/Home-SOC-Lab-Brute-Force-Detection-Triage-Wazuh">Home SOC Lab - Brute-Force Detection & Triage | Wazuh</a>|
 | Alert Triage & Incident Investigation         | SOC Analyst Labs|
 | Threat Detection & IOC Analysis               | SOC Analyst Labs|
 | MITRE ATT&CK Mapping                          |Brute-Force Detection Lab|
@@ -86,26 +86,7 @@ My academic journey in Computer Science has sparked a strong passion for cyberse
 
 ## Projects
 
-### Home SOC Lab — Brute-Force Detection & Triage | Wazuh
+- <a href="https://github.com/Sabarin18/Home-SOC-Lab-Brute-Force-Detection-Triage-Wazuh">Home SOC Lab - Brute-Force Detection & Triage | Wazuh</a>
 
-**Tools:** Wazuh, Hydra, VirtualBox, Windows, Linux, MITRE ATT&CK
+- SOC Analyst Training Labs | Splunk
 
-- Built and configured a home SOC lab using Wazuh.
-- Simulated SSH brute-force attacks using Hydra.
-- Monitored and investigated authentication alerts.
-- Identified the attacker IP address.
-- Mapped the activity to MITRE ATT&CK T1110.
-- Created and tested custom Wazuh detection rules.
-- Configured Active Response for automated response.
-
----
-
-### SOC Analyst Training Labs | Splunk
-
-**Tools:** Splunk, Windows Event Logs, Sysmon, MITRE ATT&CK
-
-- Performed log analysis and alert triage using Splunk.
-- Investigated Windows authentication and process events.
-- Analyzed Event IDs 4624, 4625, 4672 and 4688.
-- Practiced IOC identification and event correlation.
-- Investigated suspicious activity and followed SOC workflows.
