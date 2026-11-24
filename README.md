@@ -1,92 +1,253 @@
-# Hello, I'm SABARIN R
-<a href="https://www.linkedin.com/in/sabarin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- ================= HEADER ================= -->
 
+<h1 align="center">
+  ⚡ SABARIN R
+</h1>
 
-I am a B.Sc. Computer Science graduate with a strong interest in cybersecurity and a passion for learning and solving security challenges.
+<h3 align="center">
+  🛡️ SOC Analyst L1 | Cybersecurity | Threat Detection
+</h3>
 
-## Objective
+<p align="center">
+  <a href="https://www.linkedin.com/in/sabarin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/EC--Council-Certified_SOC_Analyst-00C853?style=for-the-badge"/>
+</p>
 
-My academic journey in Computer Science has sparked a strong passion for cybersecurity and digital defense. I am eager to begin my career in a Security Operations Center (SOC), where I can apply my knowledge of threat detection, security monitoring, and incident response while continuously developing my skills as a Tier 1 SOC Analyst.
+<p align="center">
+  <code>Threat Detection</code> •
+  <code>SIEM Monitoring</code> •
+  <code>Incident Response</code> •
+  <code>Log Analysis</code>
+</p>
 
-## Skills
+---
 
-| Skill                                         | Related Project / Lab       |
-|-----------------------------------------------|----------------------------|
-| SIEM Monitoring & Log Analysis                |<a href="https://github.com/Sabarin18/Home-SOC-Lab-Brute-Force-Detection-Triage-Wazuh">Home SOC Lab - Brute-Force Detection & Triage | Wazuh</a>|
-| Alert Triage & Incident Investigation         | SOC Analyst Labs|
-| Threat Detection & IOC Analysis               | SOC Analyst Labs|
-| MITRE ATT&CK Mapping                          |Brute-Force Detection Lab|
-| Security Monitoring & Event Correlation       | Home SOC Lab (Wazuh / Splunk) |
-| Vulnerability Assessment & Reconnaissance     | Penetration Testing Labs |
+<!-- ================= ABOUT ME ================= -->
 
-## Tools
+<h2 align="center">👨‍💻 About Me</h2>
 
-### SIEM & Security Monitoring
+<p align="center">
+  B.Sc. Computer Science Graduate | EC-Council Certified SOC Analyst (C|SA)
+  <br/><br/>
+  Passionate about cybersecurity, threat detection, SIEM monitoring,
+  and investigating security incidents. Continuously developing my
+  technical skills to contribute to effective security operations
+  as a Tier 1 SOC Analyst.
+</p>
 
-<div>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wazuh-0264D6?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+---
 
-### Network Security & Analysis
+<!-- ================= SKILLS ================= -->
 
-<div>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Hydra-000000?&style=for-the-badge&logoColor=white" />
-</div>
+<h2 align="center">🎯 Core Cybersecurity Skills</h2>
 
-### Security Testing & Penetration Testing
+<table align="center">
+<tr>
+<td align="center" bgcolor="#0D1B16" width="50%">
+  <h3>🛡️ SIEM Monitoring & Log Analysis</h3>
+  <a href="https://github.com/Sabarin18/Home-SOC-Lab-Brute-Force-Detection-Triage-Wazuh">Home SOC Lab | Wazuh</a>
+</td>
+<td align="center" bgcolor="#101B2D" width="50%">
+  <h3>🚨 Alert Triage & Incident Response</h3>
+  SOC Analyst Training Labs
+</td>
+</tr>
 
-<div>
-<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Metasploit-2A5CAA?&style=for-the-badge&logo=metasploit&logoColor=white" />
-</div>
+<tr>
+<td align="center" bgcolor="#172313">
+  <h3>🔍 Threat Detection & IOC Analysis</h3>
+  SOC Analyst Training Labs
+</td>
+<td align="center" bgcolor="#211638">
+  <h3>🎯 MITRE ATT&CK Framework</h3>
+  Brute-Force Detection Lab
+</td>
+</tr>
 
-### Threat Intelligence & IOC Analysis
+<tr>
+<td align="center" bgcolor="#102A35">
+  <h3>📊 Security Event Monitoring & Correlation</h3>
+  Wazuh / Splunk Labs
+</td>
+<td align="center" bgcolor="#17202A">
+  <h3>🌐 Network Traffic Analysis & Reconnaissance</h3>
+  Network Security Labs
+</td>
+</tr>
 
-<div>
-<img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
-<img src="https://img.shields.io/badge/-AbuseIPDB-000000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF0000?&style=for-the-badge&logoColor=white" />
-</div>
+<tr>
+<td align="center" bgcolor="#24150F">
+  <h3>🔐 Vulnerability Assessment</h3>
+  Penetration Testing Labs
+</td>
+<td align="center" bgcolor="#0D1B16">
+  <h3>⚡ Brute-Force Attack Detection & Investigation</h3>
+  Home SOC Lab | Wazuh
+</td>
+</tr>
+</table>
 
-### Operating Systems
+---
 
-<div>
-<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
+<!-- ================= TOOLS ================= -->
 
-## Certifications & Training
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
-### Certifications
+<h3>🛡️ SIEM & Security Monitoring</h3>
+<p>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-0264D6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
-<div>
-<img src="https://img.shields.io/badge/-Certified_Penetration_Tester_(CPT)-FF0000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cybersecurity_Fundamentals_Associate-007ACC?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Introduction_to_CIP-5C2D91?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco_Introduction_to_Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
+<h3>🌐 Network Security & Analysis</h3>
+<p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetExec_(nxc)-D32F2F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=white"/>
+</p>
 
-- **Certified Penetration Tester (CPT)** — RedTeam Hacker Academy
-- **Cybersecurity Fundamentals Associate** — OPSWAT Academy
-- **Introduction to CIP** — OPSWAT Academy
-- **Introduction to Cybersecurity** — Cisco
+<h3>🚨 Threat Intelligence & Incident Investigation</h3>
+<p>
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
+<img src="https://img.shields.io/badge/AbuseIPDB-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white"/>
+</p>
 
-### Training Completed
+<h3>🔍 Vulnerability Assessment & Penetration Testing</h3>
+<p>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2A5CAA?style=for-the-badge&logo=metasploit&logoColor=white"/>
+</p>
 
-<div>
-<img src="https://img.shields.io/badge/-EC--Council_Certified_SOC_Analyst_(C%7CSA)_Training-007ACC?&style=for-the-badge&logoColor=white" />
-</div>
+<h3>💻 Operating Systems</h3>
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
 
-- **Certified SOC Analyst (C|SA) Training** — EC-Council
+---
 
-## Projects
+<!-- ================= CERTIFICATIONS ================= -->
 
-- <a href="https://github.com/Sabarin18/Home-SOC-Lab-Brute-Force-Detection-Triage-Wazuh">Home SOC Lab - Brute-Force Detection & Triage | Wazuh</a>
+<h2 align="center">🏆 Certifications & Professional Credentials</h2>
 
-- SOC Analyst Training Labs | Splunk
+<p align="center">
+  <img src="https://img.shields.io/badge/EC--Council-Certified_SOC_Analyst_(C%7CSA)-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RedTeam_Academy-Certified_Penetration_Tester_(CPT)-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPSWAT-Cybersecurity_Fundamentals_Associate-2962FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPSWAT-Introduction_to_CIP-7C4DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-00BCEB?style=for-the-badge&logo=cisco"/>
+</p>
+
+<h3 align="center">📜 Certification Details</h3>
+
+<table align="center">
+<tr>
+<td bgcolor="#10251C">🛡️ <b>Certified SOC Analyst (C|SA)</b></td>
+<td bgcolor="#10251C">EC-Council</td>
+</tr>
+<tr>
+<td bgcolor="#24150F">🔴 <b>Certified Penetration Tester (CPT)</b></td>
+<td bgcolor="#24150F">RedTeam Hacker Academy</td>
+</tr>
+<tr>
+<td bgcolor="#111E35">🔵 <b>Cybersecurity Fundamentals Associate</b></td>
+<td bgcolor="#111E35">OPSWAT Academy</td>
+</tr>
+<tr>
+<td bgcolor="#211638">🟣 <b>Introduction to CIP</b></td>
+<td bgcolor="#211638">OPSWAT Academy</td>
+</tr>
+<tr>
+<td bgcolor="#10232D">🌐 <b>Introduction to Cybersecurity</b></td>
+<td bgcolor="#10232D">Cisco</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<h2 align="center">🚀 Cybersecurity Projects & Hands-on Labs</h2>
+
+<table align="center">
+<tr>
+
+<td bgcolor="#0D1B16" width="50%" valign="top">
+
+<h3 align="center">🛡️ Home SOC Lab – Wazuh</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SIEM-Wazuh-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Attack-SSH_Brute_Force-FF5252?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<b>Brute-Force Detection & Triage</b>
+</p>
+
+- SSH brute-force attack simulation
+- Security event monitoring
+- Log analysis and alert investigation
+- MITRE ATT&CK mapping
+- Incident detection and triage
+
+<p align="center">
+<a href="https://github.com/Sabarin18/Home-SOC-Lab-Brute-Force-Detection-Triage-Wazuh">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td bgcolor="#101B2D" width="50%" valign="top">
+
+<h3 align="center">📊 Home SOC Lab – Splunk</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SIEM-Splunk-00BCEB?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Attack-SMB_Brute_Force-FF5252?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<b>SMB Brute-Force Detection & Triage</b>
+</p>
+
+- Windows security event monitoring
+- Failed login event analysis
+- Log investigation using Splunk
+- Suspicious authentication activity detection
+- Security event investigation and triage
+
+<p align="center">
+<img src="https://img.shields.io/badge/SOC-Hands--On_Lab-2962FF?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= CONTACT ================= -->
+
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sabarin/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Sabarin18">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+  <b>⚡ Learning | Investigating | Securing 🛡️</b>
+</p>
 
