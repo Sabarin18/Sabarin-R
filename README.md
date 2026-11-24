@@ -11,8 +11,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sabarin/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/">
+    <img src="https://img.shields.io/badge/EC--Council-Certified_SOC_Analyst-00C853?style=for-the-badge"/>
   </a>
-  <img src="https://img.shields.io/badge/EC--Council-Certified_SOC_Analyst-00C853?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -69,7 +70,7 @@
 <tr>
 <td align="center" bgcolor="#102A35">
   <h3>📊 Security Event Monitoring & Correlation</h3>
-  Wazuh / Splunk Labs
+  <a href="https://github.com/Sabarin18/splunk-smb-bruteforce-detection">Home SOC Lab | Splunk</a>
 </td>
 <td align="center" bgcolor="#17202A">
   <h3>🌐 Network Traffic Analysis & Reconnaissance</h3>
