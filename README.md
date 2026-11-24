@@ -225,7 +225,9 @@
 - Security event investigation and triage
 
 <p align="center">
-<img src="https://img.shields.io/badge/SOC-Hands--On_Lab-2962FF?style=for-the-badge"/>
+<a href="https://github.com/Sabarin18/splunk-smb-bruteforce-detection">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 </td>
